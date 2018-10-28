@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FewActivity</string>
+    <string name="to_activity2">To_activity2</string>
+    <string name="showtime">ShowTime</string>
+    <string name="showdate">ShowDate</string>
+    <string name="to_activity1">To_activity1</string>
+    <string name="textview">TextView</string>
+</resources>
